@@ -1,5 +1,8 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d47e08430406414b9377f26503aa979b)](https://www.codacy.com/gh/MaxSob/NeuralNetworks_In_5_minutes/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaxSob/NeuralNetworks_In_5_minutes&amp;utm_campaign=Badge_Grade)
 # Neural Networks Notebooks
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2fcdb0e938584545892d15dec9c7d109)](https://app.codacy.com/gh/MaxSob/NeuralNetworks_In_5_minutes?utm_source=github.com&utm_medium=referral&utm_content=MaxSob/NeuralNetworks_In_5_minutes&utm_campaign=Badge_Grade_Settings)
+
 This repository includes Jupyter Notebooks to demonstrate the basic math and mechanism of deep neural networks.
 
 ## Neural Networks in 5 minutes
