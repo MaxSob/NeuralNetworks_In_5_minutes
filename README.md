@@ -18,3 +18,10 @@ This Notebooks ilustrates math mechanism for different activation funcition and 
 *   Leaky ReLU
 *   ELU
 *   GELU
+## Optimization methods
+This Notebooks ilustrates different optimization methods applied to Neural Networks
+* Momentum
+* Adagrad
+* Adadelta
+* RMSProp
+* ADAM
