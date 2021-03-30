@@ -20,8 +20,8 @@ This Notebooks ilustrates math mechanism for different activation funcition and 
 *   GELU
 ## Optimization methods
 This Notebooks ilustrates different optimization methods applied to Neural Networks
-* Momentum
-* Adagrad
-* Adadelta
-* RMSProp
-* ADAM
+*   Momentum
+*   Adagrad
+*   Adadelta
+*   RMSProp
+*   ADAM
