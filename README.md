@@ -18,6 +18,9 @@ This Notebooks ilustrates math mechanism for different activation funcition and 
 *   Leaky ReLU
 *   ELU
 *   GELU
+## Exponentially decaying averages
+This Notebook ilustrates how the cummulative weighted average of data can help to smooth the shape of a function, using a smoothing parameter beta. This notion serves as an introduction to a wide range of optimization methods that use this technique thoroughly.
+
 ## Optimization methods
 This Notebooks ilustrates different optimization methods applied to Neural Networks
 *   Momentum
